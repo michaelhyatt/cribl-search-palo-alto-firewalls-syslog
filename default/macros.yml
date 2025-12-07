@@ -1,0 +1,22 @@
+slsDataset:
+  lib: custom
+  replacement: '"palo_sls_dataset"'
+  createdBy: google-oauth2|103600523088470283110
+  modified: 1758841471035
+  created: 1758839521741
+  description: Part of expression specifying SLS dataset
+syslogDataset:
+  lib: custom
+  replacement: pan_syslog
+  createdBy: google-oauth2|103600523088470283110
+  modified: 1761913588157
+  created: 1758839555030
+  description: Part of expression specifying the dataset with syslog data
+syslogType:
+  lib: custom
+  description: Name of syslog dataset field indicating the type of syslog traffic,
+    e.g. THREAT, TRAFFIC
+  replacement: toupper(dir_palo_type)
+  createdBy: google-oauth2|103600523088470283110
+  modified: 1761902704446
+  created: 1758841292857

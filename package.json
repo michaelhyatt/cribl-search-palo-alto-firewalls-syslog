@@ -1,0 +1,1 @@
+{"name":"cribl-search-palo-alto-firewalls-syslog","version":"0.0.4","author":"mhyatt@cribl.io","displayName":"Palo Alto Firewalls Syslog","tags":{"streamtags":["paloalto","syslog"]},"exports":["*"]}
