@@ -17,6 +17,9 @@ The pack follows the format and naming introduced by Stream `Cribl Pack for Palo
 
 ## Release Notes
 
+### Version 0.0.5 - 2025-12-08
+Updated description.
+
 ### Version 0.0.4 - 2025-10-31
 Added sample data with sample dashboards
 

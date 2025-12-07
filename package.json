@@ -1,1 +1,16 @@
-{"name":"cribl-search-palo-alto-firewalls-syslog","version":"0.0.4","author":"mhyatt@cribl.io","displayName":"Palo Alto Firewalls Syslog","tags":{"streamtags":["paloalto","syslog"]},"exports":["*"]}
+{
+    "name": "cribl-search-palo-alto-firewalls-syslog",
+    "version": "0.0.5",
+    "author": "mhyatt@cribl.io",
+    "displayName": "Palo Alto Firewalls Syslog",
+    "description": "Search Pack with dashboards and saved searches for Palo Alto firewall syslog logs visualisation",
+    "tags": {
+        "streamtags": [
+            "paloalto",
+            "syslog"
+        ]
+    },
+    "exports": [
+        "*"
+    ]
+}
