@@ -1,6 +1,6 @@
 {
     "name": "cribl-search-palo-alto-firewalls-syslog",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "author": "mhyatt@cribl.io",
     "displayName": "Palo Alto Firewalls Syslog",
     "description": "Search Pack with dashboards and saved searches for Palo Alto firewall syslog logs visualisation",

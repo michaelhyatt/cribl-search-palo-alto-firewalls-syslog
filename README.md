@@ -17,6 +17,9 @@ The pack follows the format and naming introduced by Stream `Cribl Pack for Palo
 
 ## Release Notes
 
+### Version 0.0.6 - 2025-12-60
+Macros clanup.
+
 ### Version 0.0.5 - 2025-12-08
 Updated description.
 
